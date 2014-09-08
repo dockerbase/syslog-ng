@@ -18,4 +18,5 @@ This repository contains **Dockerbase** of [Syslog-ng](http://www.syslog-ng.org/
 
 ### Usage
 
-    docker run -it --rm dockerbase/syslog-ng
+    $ docker run -it --rm dockerbase/syslog-ng
+    # service syslog-ng start
