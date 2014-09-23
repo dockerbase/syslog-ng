@@ -6,7 +6,7 @@ This repository contains **Dockerbase** of [Syslog-ng](http://www.syslog-ng.org/
 
 ### Depends on:
 
-* [dockerbase/ubuntu](https://registry.hub.docker.com/u/dockerbase/ubuntu/)
+* [dockerbase/runit](https://registry.hub.docker.com/u/dockerbase/runit/)
 
 
 ### Installation
